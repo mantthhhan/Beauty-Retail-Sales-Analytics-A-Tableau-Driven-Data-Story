@@ -116,7 +116,7 @@ Through data analysis and the creation of interactive Tableau dashboards, severa
 
 8️⃣ **Business Impact**
 
-This Tableau-driven data story provided critical insights into customer behavior, product performance, and sales trends. It allowed the retail team to make data-driven decisions for product positioning, marketing strategies, and inventory management. By focusing on key demographics and adjusting sales strategies, the beauty retailer can increase customer engagement, boost revenue, and improve operational efficiency in the future.
+This Tableau-driven data story provided critical insights into customer behavior, product performance, and sales trends. It allowed me to make data-driven decisions for product positioning, marketing strategies, and inventory management. By focusing on key demographics and adjusting sales strategies, the beauty retailer can increase customer engagement, boost revenue, and improve operational efficiency in the future.
 
-In conclusion, this analysis empowered stakeholders to make strategic, customer-centric decisions, contributing to increased profitability and better alignment with market demand.
+In conclusion, this analysis empowered me to make strategic, customer-centric decisions, contributing to increased profitability and better alignment with market demand.
 Feel free to explore and reach out!
